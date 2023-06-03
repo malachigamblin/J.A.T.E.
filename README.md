@@ -13,7 +13,7 @@
 
 ## Deployed Application
 
-Link To Deployed Application:
+Link To Deployed Application: https://nameless-cliffs-54677.herokuapp.com/ 
 
 ## Description
 
@@ -31,7 +31,7 @@ J.A.T.E. is a text editor that meets the PWA criteria. Feel free to create notes
 
 ## Screenshot
 
-
+<img width="1339" alt="Screenshot 2023-06-02 at 10 43 13 PM" src="https://github.com/malachigamblin/CodeBytes/assets/118701306/a4d4d8b0-9cc1-4c5c-b928-99885b34e85f">
 
 ## Questions
 
