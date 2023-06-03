@@ -13,17 +13,21 @@
 
 ## Deployed Application
 
+Link To Deployed Application:
 
 ## Description
 
+J.A.T.E. is a text editor that meets the PWA criteria. Feel free to create notes or code snippets with or without an internet connection so you can retrieve them for later!
 
 
 ## Installation
+
 - Clone this repository
 
 ## Usage
 
-
+- Run `npm i` in root directory
+- Run `npm run start` in root directory
 
 ## Screenshot
 
